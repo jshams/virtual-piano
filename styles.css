@@ -32,7 +32,11 @@ body {
   background-color: black;
   color: white;
   border: white;
+}
 
+.switch-button:hover {
+  background-color: #eaeaea;
+  
 }
 
 .circle {
